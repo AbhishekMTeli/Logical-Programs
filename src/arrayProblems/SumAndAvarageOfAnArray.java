@@ -21,3 +21,4 @@ public class SumAndAvarageOfAnArray {
 
 //  gdghjhkj
 // ffyhggyuhiuv
+// get conflict
