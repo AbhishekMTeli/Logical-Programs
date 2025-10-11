@@ -16,5 +16,5 @@ public class SumAndAvarageOfAnArray {
 		System.out.println("The avarage of an array is " + avg);
 	}
 }
- // trying to get the merge conflictt
+// trying to get the merge conflictt
 // dsgu
