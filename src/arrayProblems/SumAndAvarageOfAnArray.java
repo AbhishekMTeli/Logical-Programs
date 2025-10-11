@@ -20,3 +20,4 @@ public class SumAndAvarageOfAnArray {
 // dsgu
 
 //  gdghjhkj
+// ffyhggyuhiuv
