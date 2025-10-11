@@ -17,3 +17,4 @@ public class SumAndAvarageOfAnArray {
 	}
 }
  // trying to get the merge conflictt
+// dsgu
